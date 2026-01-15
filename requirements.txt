@@ -1,0 +1,16 @@
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+flask
+pytest
+
+
+# For Kernal Installation Run in Terminal
+# pip install ipykernel
+# python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+# pip install -r requirements.txt
