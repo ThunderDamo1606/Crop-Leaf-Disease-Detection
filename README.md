@@ -114,7 +114,7 @@ The dataset consists of plant leaf images classified into the following categori
 ## 🚀 How to Run the Project
 
 ### Step 1: Clone the repository  
-git clone https://github.com/ThunderDamo1606/crop-disease-detection.git  
+git clone https://github.com/ThunderDamo1606/Crop-Leaf-Disease-Detection  
 cd crop-disease-detection  
 
 ### Step 2: Create virtual environment  
